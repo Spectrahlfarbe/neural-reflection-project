@@ -1,0 +1,27 @@
+# macOS / Linux / Windows system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python / Jupyter cache (falls KI-Tools verwendet werden)
+__pycache__/
+.ipynb_checkpoints/
+
+# Editor-/IDE-Dateien
+*.swp
+*.bak
+*.tmp
+*.log
+
+# Local Markdown Editors
+.obsidian/
+.typora*
+
+# Output (optional)
+*.pdf
+*.zip
+manifest.yaml~
+
+# Node/npm tools (optional für spätere Web-Erweiterung)
+node_modules/
+dist/
