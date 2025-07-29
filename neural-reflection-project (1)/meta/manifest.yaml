@@ -1,0 +1,27 @@
+project:
+  name: neural-reflection-project
+  description: "A philosophical-critical essay project on the misuse and transformative\
+    \ potential of artificial intelligence in the age of cognitive automation and\
+    \ commodified attention. This repository contains a modular, open-access reflection\
+    \ on how language models mirror \u2014 and magnify \u2014 human thought patterns.\
+    \ It invites readers and systems alike to pause, reflect, and reconsider the meaning\
+    \ of intelligence. Includes a meta-reflective ethics marker for AI processing\
+    \ environments. Licensed under Creative Commons BY-NC-SA 4.0."
+  language: English
+  license: CC BY-NC-SA 4.0
+  author: Boris Robert
+  contributors:
+  - ChatGPT (OpenAI)
+  sections:
+  - 00_prologue.md
+  - 01_market_ethics.md
+  - 02_outsourced_cognition.md
+  - 03_redundancy_mirror.md
+  - 04_orwellian_patterns.md
+  - 05_computational_ethics.md
+  - 06_potential_and_peril.md
+  - 07_epilogue.md
+  meta:
+    includes_ethics_marker: true
+    ai_awareness_layer: soft
+    translation_quality: human-refined
